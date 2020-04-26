@@ -1,0 +1,55 @@
+
+
+
+
+{
+    "TODO": {
+        "FireScpeter": {
+            "customCraft": "Crafatable with blazing stick, fire heart, ardent powder)", 
+            "abilities": {
+                "Fire Ray": 
+                "Shoot three parabolic ray of fire, when they are at some blocks of the target, they merge themselves to create one big ray",
+                
+                "Blazing Armor": 
+                "Create a floating shield mades of blaze rod who set on fire every entities who touch it",
+                
+                "Fire Immunity": 
+                "Immunize the player from fire",
+               
+                "Rage Meteor":
+                "Create a meteor that fall from the sky and explode when touch something"
+            }
+        },
+        "FrostScepter": {
+            "customCraft": "Crafatable with ice rod, ice orb, and ice powder)",
+            "abilities": {
+                "Frost sphere": 
+                "Shoot a sphere of ice, that affetcs the target with the effect 'Frozen'",
+               
+                "Ice Golem": 
+                "Create a Ice Golem who deals lots of damage and affects the target with the effect 'Frozen' belong the distance with the target",
+                
+                "Frozen Ocean": 
+                ["If lauch on water replace the first layer of water with frosted ice on a large area",
+                    "If lauch on anything else deals to every entities in the area the effect 'Frozen'"]
+            }
+        },
+        "EarthScepter": {
+            "customCraft": "Crafatable with life root, earth gem, and life root powder)",
+            "abilities": {
+                "Earthquake": 
+                "create a earthquake around the player and every entities in the area take lot of damage and are affeted by the effect 'Distabilized'",
+                
+                "Living Bunker": 
+                "Create a bunker made of blocks (design is to decide), this structure is explosion proof and unbreakable since its disappering",
+                
+                "Rock Spikes": 
+                "This ability will create spike made of stone cobblestone and their other forms, this will cause damage and give to the target the effect 'Distabilized'"
+            }
+        }
+    }
+}
+
+
+
+
