@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick{display:{Name:'{"text":"Ice Scepter","color":"white","bold":true,"italic":false}'},scepter:1b} 1
