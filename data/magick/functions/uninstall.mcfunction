@@ -1,0 +1,2 @@
+scoreboard objectives remove click
+scoreboard objectives remove icescepter
